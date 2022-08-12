@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "V2",
+    "description": "Deploy V2 on He.",
+    "keywords": ["V2"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -9,14 +9,14 @@
         },
         "AID": {
             "description": "AlterID",
-            "value": "64"
+            "value": "0"
         },
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "https://ibcl.us/",
+    "repository": "https://github.com/lookmoon2020/20220509",
     "stack": "container"
 }
